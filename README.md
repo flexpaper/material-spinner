@@ -3,6 +3,7 @@ Material design style spinner loader with graceful degradation
 
 Demo
 -------------------
+[See the online demo](http://flexpaper.github.io/material-spinner/)
 
 License
 -------------------
