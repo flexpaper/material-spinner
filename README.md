@@ -1,7 +1,7 @@
 # material-spinner
 Material design style spinner loader with graceful degradation
 
-#### Install it
+#### Installing it
 -------------------
 Include flexpaper-spinner.css and flexpaper.spinner.js on your web page.<br/>
 
@@ -11,7 +11,7 @@ Include flexpaper-spinner.css and flexpaper.spinner.js on your web page.<br/>
 <script src='js/flexpaper.spinner.js'></script>
 ```
 
-## Basic usage
+#### Basic usage
 Create a element that you want to use as place holder for your spinner.
 ```html
 <div id="spinner-target" style="left:60%;top:40%;"></div>
