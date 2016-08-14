@@ -34,4 +34,4 @@ License
 -------------------
 Mozilla Public License License Version 2.0
 
-<h3>Maintained and sponsored by █▒▓▒░ <a href="http://flexpaper.devaldi.com/">The FlexPaper Project</a></h3>
+<h3>Maintained and sponsored by █▒▓▒░ <a href="http://flowpaper.com/">The FlowPaper Project</a></h3>
